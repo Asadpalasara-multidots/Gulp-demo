@@ -31,7 +31,7 @@ Run this command to minify JS.
 gulp minifyJS 
 ```
 
-Run this command to compile Sass and CSS. 
+Run this command to compile Sass to CSS. 
 
 ``` 
 gulp SaasToCss 
